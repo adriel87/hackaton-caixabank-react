@@ -1,0 +1,19 @@
+.container {
+	background-color: #2d14c4;
+	border-radius: 30px;
+	width: 325px;
+	margin: 1rem auto;
+	padding: 0.8rem;
+	display: flex;
+	justify-content: space-around;
+}
+
+.icon {
+	color: white;
+	font-size: 30px;
+}
+
+.unselect {
+	color: #8f89e3;
+	font-size: 30px;
+}

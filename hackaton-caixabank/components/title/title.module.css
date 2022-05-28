@@ -1,0 +1,8 @@
+.container {
+	align-self: flex-start;
+	margin-left: 1rem;
+}
+.title {
+	text-align: start;
+	color: #4a35c5;
+}
